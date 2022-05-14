@@ -1,4 +1,4 @@
- <a href="https://heroku.com/deploy?template=https://github.com/MLTG/Leech-Pro"><img src="https://www.herokucdn.com/deploy/button.svg" alt="heroku"></a>
+ <a href="https://heroku.com/deploy?template=https://github.com/MLTG/pro"><img src="https://www.herokucdn.com/deploy/button.svg" alt="heroku"></a>
 
 
 
